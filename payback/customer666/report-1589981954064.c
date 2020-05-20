@@ -1,0 +1,2 @@
+WIN-4MCKVTJ27M4\lfbaba~~~WIN-4MCKVTJ27M4~~~Windows 7 Ultimate***7601~~~Unknown~~~AMD64~~~C:\Users\lfbaba
+~~~192.168.124.184~~~1252~~~437
