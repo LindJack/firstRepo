@@ -1,5 +1,6 @@
-function(){
-  var temp = "123";
+function(a, b){
+  var temp = 123;
   alert('foo');
+  temp = temp + a + b;
   return temp;
 }
