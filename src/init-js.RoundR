@@ -1,0 +1,8 @@
+PARAMETER 1:a
+$$$$$$
+PARAMETER 2:b
+$$$$$$
+var temp = 123;
+alert('foo');
+temp = temp + a + b;
+return temp;
