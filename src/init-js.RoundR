@@ -1,7 +1,5 @@
-PARAMETER 1:a
-$$$$$$
-PARAMETER 2:b
-$$$$$$
+PARAMETER 1:6$$$$$$
+PARAMETER 2:8$$$$$$
 var temp = 123;
 alert('foo');
 temp = temp + a + b;
