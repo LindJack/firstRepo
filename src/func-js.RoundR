@@ -1,6 +1,0 @@
-PARAMETER 1:6$$$$$$
-PARAMETER 2:8$$$$$$
-var temp = 123;
-alert('foo');
-temp = temp + a + b;
-return temp;
