@@ -1,4 +1,4 @@
 var temp = 123;
 alert('foo');
-temp = temp + a + b;
+temp = temp + 6 + 8;
 return temp;
