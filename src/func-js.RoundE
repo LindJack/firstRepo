@@ -1,3 +1,5 @@
+PARAMETER 1:6$$$$$$
+PARAMETER 2:8$$$$$$
 function(a, b){
   var temp = 123;
   alert('foo');
