@@ -1,0 +1,4 @@
+var temp = 123;
+alert('foo');
+temp = temp + a + b;
+return temp;
